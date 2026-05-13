@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3343",
+  "folder": "YouTube__watch_20260513215307_a4d74a",
+  "base_name": "The_Weeknd_ft_Dua_Lipa_-_Obsession_(Official_Lyric_Video)_-944JoDySbY_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/imanemun7/Cloud-Downloads-1/releases/tag/co-releases-v1-3343",
+  "files": [
+    {
+      "name": "The_Weeknd_ft_Dua_Lipa_-_Obsession_.Official_Lyric_Video._-944JoDySbY_720p.mp4",
+      "url": "https://github.com/imanemun7/Cloud-Downloads-1/releases/download/co-releases-v1-3343/The_Weeknd_ft_Dua_Lipa_-_Obsession_.Official_Lyric_Video._-944JoDySbY_720p.mp4",
+      "api_url": "https://api.github.com/repos/imanemun7/Cloud-Downloads-1/releases/assets/419646283",
+      "id": 419646283,
+      "size": 41726251,
+      "download_count": 0
+    }
+  ]
+}

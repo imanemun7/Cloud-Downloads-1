@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4708",
+  "folder": "YouTube__watch_20260514061208_3f1004",
+  "base_name": "Kheyli_Vaghte_-_Mehrad_Hidden_Feat_NAVA_-ihIMHONw_I_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/imanemun7/Cloud-Downloads-1/releases/tag/co-releases-v1-4708",
+  "files": [
+    {
+      "name": "Kheyli_Vaghte_-_Mehrad_Hidden_Feat_NAVA_-ihIMHONw_I_480p.mp4",
+      "url": "https://github.com/imanemun7/Cloud-Downloads-1/releases/download/co-releases-v1-4708/Kheyli_Vaghte_-_Mehrad_Hidden_Feat_NAVA_-ihIMHONw_I_480p.mp4",
+      "api_url": "https://api.github.com/repos/imanemun7/Cloud-Downloads-1/releases/assets/419930267",
+      "id": 419930267,
+      "size": 5607505,
+      "download_count": 0
+    }
+  ]
+}
